@@ -23,3 +23,5 @@ Pi_install:
 Props to @Drogon
 https://projects.drogon.net/ 
 for wiringPi https://projects.drogon.net/raspberry-pi/wiringpi/
+which is licensed with LGPLv3 http://www.gnu.org/copyleft/lesser.html
+(see wiringPi.zip for full license)
