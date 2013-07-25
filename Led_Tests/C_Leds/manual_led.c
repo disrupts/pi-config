@@ -133,7 +133,9 @@ int main ()
 		{
 			printw ("You pressed a button (");
 			printw ("%c",key);
-			printw (") that does nothing.\n");
+			printw (") that does nothing.\n\n");
+			printw ("Press G, O, Y, R to toggle the LEDs\n");
+			printw ("Press q to quit\n");
 			refresh();
 		}
 	} 
