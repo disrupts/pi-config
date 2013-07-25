@@ -16,3 +16,10 @@ Led_tests:
       
 Pi_install:
       * install_pi.sh : a sh script for raspbian that installs a few useful apps and libraries (which Led_tests depend on)
+
+
+
+
+Props to @Drogon
+https://projects.drogon.net/ 
+for wiringPi https://projects.drogon.net/raspberry-pi/wiringpi/
